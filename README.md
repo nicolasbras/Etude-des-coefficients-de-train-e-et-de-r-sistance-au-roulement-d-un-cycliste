@@ -18,7 +18,7 @@ L'étude expérimentale a été réalisée en deux étapes :
 - `Pesage des photographies/` : détermination de la surface utilisée dans les calculs de force de trainée
 - `Main programs/` : contient les fichiers Python les plus importants, à l'exception des fichiers d'analyses cinématiques
 
-## Commentaires d'utilisation
+# Commentaires d'utilisation
 Les fichiers Présentation.pdf et "Programmes numériques.pdf" sont prévus pour que l'utilisateur ait une vision complète de l'étude menée, sans avoir recourt à l'exécution des programmes.
 
 Les fichiers contenus dans `Analyses/` sont nombreux et témoignent des nombreuses tentatives d'augmenter la précision dans mes approches de calculs. Différentes méthodes ont été employées et comparées : la dérivation discrète des données brutes, la dérivation de polynomes suivant la courbe les données, et la méthode d'Euler (la méthode RK4 a aussi été testée).
