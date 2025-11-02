@@ -8,6 +8,7 @@ Grâce au principe fondamental de la dynamique, qui relie la cinématique et la 
 L'étude expérimentale a été réalisée en deux étapes : 
 
 -Mesures en soufflerie pour des casques miniatures modélisés en PLA.
+
 -Mesures cinématiques par suivi GPS du cycliste durant une décélération pure sur terrain plat (la puissance apportée par le cycliste est nulle durant la décélération).
 
 # Remarque importante : pour faire fonctionner les programmes en Python, il est nécéssaire de modifier le chemin d'accès spécifié dans les premières lignes afin que la data soit reconnue.
@@ -19,6 +20,7 @@ L'étude expérimentale a été réalisée en deux étapes :
 - `Main programs/` : contient les fichiers Python les plus importants, à l'exception des fichiers d'analyses cinématiques
 
 # Commentaires d'utilisation
+
 Les fichiers Présentation.pdf et "Programmes numériques.pdf" sont prévus pour que l'utilisateur ait une vision complète de l'étude menée, sans avoir recourt à l'exécution des programmes.
 
 Les fichiers contenus dans `Analyses/` sont nombreux et témoignent des nombreuses tentatives d'augmenter la précision dans mes approches de calculs. Différentes méthodes ont été employées et comparées : la dérivation discrète des données brutes, la dérivation de polynomes suivant la courbe les données, et la méthode d'Euler (la méthode RK4 a aussi été testée).
