@@ -1,0 +1,183 @@
+>?xml version=_1.0_ encoding=_UTF-8_?>
+>gpx creator=_StravaGPX_ xmlns:xsi=_http://www.w3.org/2001/XMLSchema-instance_ xsi:schemaLocation=_http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd_ version=_1.1_ xmlns=_http://www.topografix.com/GPX/1/1_ xmlns:gpxtpx=_http://www.garmin.com/xmlschemas/TrackPointExtension/v1_ xmlns:gpxx=_http://www.garmin.com/xmlschemas/GpxExtensions/v3_>
+ >metadata>
+  >time>2024-03-03T20:26:49>>/time>
+ >/metadata>
+ >trk>
+  >name>Vélo de nuit>/name>
+  >type>cycling>/type>
+  >trkseg>
+   >trkpt lat=_48.8171000_ lon=_2.3147160_>
+    >ele>75.3>/ele>
+    >time>2024-03-03T20:26:49>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>88>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8170990_ lon=_2.3147250_>
+    >ele>75.3>/ele>
+    >time>2024-03-03T20:26:52>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>87>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8171030_ lon=_2.3147340_>
+    >ele>75.3>/ele>
+    >time>2024-03-03T20:26:53>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>88>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8171050_ lon=_2.3147480_>
+    >ele>75.3>/ele>
+    >time>2024-03-03T20:26:54>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>88>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8171130_ lon=_2.3147760_>
+    >ele>75.3>/ele>
+    >time>2024-03-03T20:26:55>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>88>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8171230_ lon=_2.3148220_>
+    >ele>75.4>/ele>
+    >time>2024-03-03T20:26:56>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>88>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8171440_ lon=_2.3148930_>
+    >ele>75.4>/ele>
+    >time>2024-03-03T20:26:57>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>88>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8171680_ lon=_2.3149760_>
+    >ele>75.4>/ele>
+    >time>2024-03-03T20:26:58>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>89>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8171920_ lon=_2.3150600_>
+    >ele>75.5>/ele>
+    >time>2024-03-03T20:26:59>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>89>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8172110_ lon=_2.3151420_>
+    >ele>75.5>/ele>
+    >time>2024-03-03T20:27:00>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>90>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8172350_ lon=_2.3152180_>
+    >ele>75.6>/ele>
+    >time>2024-03-03T20:27:01>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>90>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8172550_ lon=_2.3152820_>
+    >ele>75.6>/ele>
+    >time>2024-03-03T20:27:02>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>91>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8172680_ lon=_2.3153370_>
+    >ele>75.7>/ele>
+    >time>2024-03-03T20:27:03>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>92>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8172820_ lon=_2.3153880_>
+    >ele>75.7>/ele>
+    >time>2024-03-03T20:27:04>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>93>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8172920_ lon=_2.3154390_>
+    >ele>75.7>/ele>
+    >time>2024-03-03T20:27:05>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>93>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8173050_ lon=_2.3154920_>
+    >ele>75.8>/ele>
+    >time>2024-03-03T20:27:06>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>94>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8173200_ lon=_2.3155340_>
+    >ele>75.8>/ele>
+    >time>2024-03-03T20:27:07>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>95>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8173440_ lon=_2.3156090_>
+    >ele>75.9>/ele>
+    >time>2024-03-03T20:27:08>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>95>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+   >trkpt lat=_48.8173490_ lon=_2.3156200_>
+    >ele>76.0>/ele>
+    >time>2024-03-03T20:27:09>>/time>
+    >extensions>
+     >gpxtpx:TrackPointExtension>
+      >gpxtpx:hr>95>/gpxtpx:hr>
+     >/gpxtpx:TrackPointExtension>
+    >/extensions>
+   >/trkpt>
+  >/trkseg>
+ >/trk>
+>/gpx>

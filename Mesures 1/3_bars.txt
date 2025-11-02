@@ -1,0 +1,188 @@
+>?xml version=_1.0_ encoding=_UTF-8_?>
+>gpx creator=_StravaGPX_ xmlns:xsi=_http://www.w3.org/2001/XMLSchema-instance_ xsi:schemaLocation=_http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd_ version=_1.1_ xmlns=_http://www.topografix.com/GPX/1/1_>
+ >metadata>
+  >time>2024-01-20T15:50:28>>/time>
+ >/metadata>
+ >trk>
+  >name>3 bars>/name>
+  >type>cycling>/type>
+  >trkseg>
+   >trkpt lat=_48.8083340_ lon=_2.3092800_>
+    >ele>77.7>/ele>
+    >time>2024-01-20T15:50:28>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083740_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:31>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083780_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:32>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083810_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:33>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083850_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:34>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083880_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:35>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083910_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:36>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083950_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:37>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8083980_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:38>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084010_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:39>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084050_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:40>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084080_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:41>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084110_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:42>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084150_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:43>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084180_ lon=_2.3092980_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:44>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084210_ lon=_2.3092990_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:50>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084250_ lon=_2.3092990_>
+    >ele>77.8>/ele>
+    >time>2024-01-20T15:50:51>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084440_ lon=_2.3092370_>
+    >ele>77.9>/ele>
+    >time>2024-01-20T15:50:52>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8084740_ lon=_2.3091840_>
+    >ele>77.9>/ele>
+    >time>2024-01-20T15:50:53>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8085060_ lon=_2.3091110_>
+    >ele>78.0>/ele>
+    >time>2024-01-20T15:50:54>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8085470_ lon=_2.3090440_>
+    >ele>78.1>/ele>
+    >time>2024-01-20T15:50:55>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8085920_ lon=_2.3089570_>
+    >ele>78.4>/ele>
+    >time>2024-01-20T15:50:56>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8086310_ lon=_2.3088690_>
+    >ele>78.6>/ele>
+    >time>2024-01-20T15:50:57>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8086680_ lon=_2.3087820_>
+    >ele>78.9>/ele>
+    >time>2024-01-20T15:50:58>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8087010_ lon=_2.3086940_>
+    >ele>79.1>/ele>
+    >time>2024-01-20T15:50:59>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8087300_ lon=_2.3086270_>
+    >ele>79.2>/ele>
+    >time>2024-01-20T15:51:00>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8087610_ lon=_2.3085520_>
+    >ele>79.3>/ele>
+    >time>2024-01-20T15:51:01>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8087890_ lon=_2.3084920_>
+    >ele>79.4>/ele>
+    >time>2024-01-20T15:51:02>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8088180_ lon=_2.3084390_>
+    >ele>79.4>/ele>
+    >time>2024-01-20T15:51:03>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8088390_ lon=_2.3083800_>
+    >ele>79.5>/ele>
+    >time>2024-01-20T15:51:04>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8088590_ lon=_2.3083270_>
+    >ele>79.5>/ele>
+    >time>2024-01-20T15:51:05>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8088760_ lon=_2.3082710_>
+    >ele>79.5>/ele>
+    >time>2024-01-20T15:51:06>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8088900_ lon=_2.3082230_>
+    >ele>79.6>/ele>
+    >time>2024-01-20T15:51:07>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089000_ lon=_2.3081790_>
+    >ele>79.6>/ele>
+    >time>2024-01-20T15:51:08>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089100_ lon=_2.3081400_>
+    >ele>79.7>/ele>
+    >time>2024-01-20T15:51:09>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089240_ lon=_2.3081080_>
+    >ele>79.7>/ele>
+    >time>2024-01-20T15:51:10>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089370_ lon=_2.3080710_>
+    >ele>79.7>/ele>
+    >time>2024-01-20T15:51:11>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089490_ lon=_2.3080390_>
+    >ele>79.8>/ele>
+    >time>2024-01-20T15:51:12>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089590_ lon=_2.3080090_>
+    >ele>79.8>/ele>
+    >time>2024-01-20T15:51:13>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089710_ lon=_2.3079880_>
+    >ele>79.8>/ele>
+    >time>2024-01-20T15:51:14>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089780_ lon=_2.3079640_>
+    >ele>79.8>/ele>
+    >time>2024-01-20T15:51:15>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089810_ lon=_2.3079580_>
+    >ele>79.8>/ele>
+    >time>2024-01-20T15:51:16>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089860_ lon=_2.3079550_>
+    >ele>79.9>/ele>
+    >time>2024-01-20T15:51:17>>/time>
+   >/trkpt>
+   >trkpt lat=_48.8089860_ lon=_2.3079610_>
+    >ele>79.9>/ele>
+    >time>2024-01-20T15:51:18>>/time>
+   >/trkpt>
+  >/trkseg>
+ >/trk>
+>/gpx>

@@ -1,0 +1,2 @@
+debout, jambes pliées : 
+A = 0,5644 m²

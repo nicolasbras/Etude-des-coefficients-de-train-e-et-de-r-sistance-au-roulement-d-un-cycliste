@@ -1,0 +1,22 @@
+/!\ Ces valeurs ne représentent rien étant donné que les repères géographiques ont été mal choisi
+(le vélo est encore en phase d'accélération au début des données)
+
+3 bars : 
+
+A : (donnée corrompue)
+Cr =  0.0023729335339834874
+Cx =  0.0012812207484687815
+B : 
+Cr =  0.000638685675405711
+Cx =  0.003081094640972069
+
+
+5 bars : 
+
+A : 
+Cr =  0.00034592108212478317
+Cx =  0.018635996320101243
+B : 
+Cr =  0.0004089499886249335
+Cx =  0.008673761762611426
+C : ne marche pas mystérieusement
