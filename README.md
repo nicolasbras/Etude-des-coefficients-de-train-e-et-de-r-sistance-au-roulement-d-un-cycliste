@@ -1,4 +1,4 @@
-# Etude-des-coefficients-de-train-e-et-de-r-sistance-au-roulement-d-un-cycliste
+# Etude-des-coefficients-de-trainee-et-de-resistance-au-roulement-d-un-cycliste
 TIPE réalisé dans le contexte de mes études au Lycée Saint Louis en 2023-2024
 
 Objectif : Détermination des coefficients Cx et Cr d'un cycliste par régressions linéaires et autres méthodes, de mesures extraites de relevés par coordonnées GPS grâce à l'application pour smartphone et montres connectées Strava.
